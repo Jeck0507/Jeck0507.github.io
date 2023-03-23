@@ -1,2 +1,2 @@
-User-agent: *
-Allow:/
+User-agent: *Allow:/
+Sitemap: https://teamsup.co.kr/sitemap.xml
